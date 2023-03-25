@@ -5,6 +5,6 @@ const config = {
     extend: {},
   },
   plugins: [],
-};
+}
 
-module.exports = config;
+module.exports = config
